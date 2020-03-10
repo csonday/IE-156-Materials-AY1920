@@ -5,6 +5,6 @@
 2. [Code to sort Primary Key Increments](/SortPKIncrements.sql)
 
 ## Case Source Codes (Annotated with Code Descriptions)
-1. Case 1
-    1. [GUI File](/Case1/Sample1file.py)
-    2. [Support File](/Case1/Sample1_support.py)
+Case 1
+1. [GUI File](/Case1/Sample1file.py)
+2. [Support File](/Case1/Sample1_support.py)
