@@ -6,5 +6,5 @@
 
 ## Case Source Codes
 1. Case 1
-    a. [GUI File](/Case1/Sample1file.py)
-    b. [Support File](/Case1/Sample1_support.py)
+    1. [GUI File](/Case1/Sample1file.py)
+    2. [Support File](/Case1/Sample1_support.py)
